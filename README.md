@@ -128,7 +128,7 @@ This module turns the phenotypic dataset into an **interactive web application**
 
 ##### Live Dashboard Preview
 
-![Plant Trait Explorer — boxplot of Shoot Length by Leaf Colour](./results/results_web_dashboard.png)
+![Plant Trait Explorer — boxplot of Shoot Length by Leaf Colour](./results/results_web_dashboard.PNG)
 
 *Shows:* The running app (local browser session) with *Shoot Length* selected boxplots of `SL` across the three leaf colour groups for all 100 genotypes
 
